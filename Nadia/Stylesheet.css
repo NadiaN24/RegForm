@@ -1,0 +1,11 @@
+*{
+    margin: 0 auto;
+}
+
+#regForm{
+    width: 50%;
+    height: auto;
+    border: 1px solid gray;
+    padding: 20px;
+
+}
